@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmwgqQ0/Tr2MP6A3aKo5KzvN+/2briISNwUqlpR8ZBS9yVRj6JBEP7jFYk0uuZzgXzNy5Gez7/GKR4nuxsM0FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diman\\source\\repos\\n3\\n3\\n3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diman\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\diman\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
